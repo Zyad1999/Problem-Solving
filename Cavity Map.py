@@ -23,5 +23,3 @@ for d in range(0,n):
             print(b[d][g])
         else:
             print(b[d][g], end="")
-
-print ("this is trail")
